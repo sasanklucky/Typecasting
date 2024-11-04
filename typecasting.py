@@ -11,7 +11,7 @@ s=45.10
 b=True
 #print(int(b))
 
-# from string,int,bool (containing only int and float) to float
+# from string,int,bool ( string containing only int and float) to float
 i=45
 #print(float(i))
 b=False
