@@ -3,7 +3,7 @@
 It is the process that converts the type of one data to another
 """
 
-#from string,float,boolean  (containing only integer) to int 
+#from string,float,boolean  ( string containing only integer) to int 
 s='45'
 #print(int(s))
 s=45.10
